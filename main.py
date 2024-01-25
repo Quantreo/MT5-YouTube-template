@@ -3,9 +3,9 @@ import pandas as pd
 import numpy as np
 
 import time
-from Quantreo.MetaTrader5 import *
+from QUANTREO.MetaTrader5 import *
 from datetime import datetime, timedelta
-from Quantreo.LiveTradingSignal import *
+from QUANTREO.LiveTradingSignal import *
 import warnings
 warnings.filterwarnings("ignore")
 
